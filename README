@@ -4,7 +4,10 @@ The Dark GDK powers the graphics, with Google's V8 scripting engine.
 
 Dependencies:
 
+DirectX SDK June 2010
 DarkGDK http://www.thegamecreators.com/?m=view_product&id=2128
 Google V8 http://code.google.com/apis/v8/build.html
 OIS Input System http://wgois.svn.sourceforge.net/
 MyGUI http://mygui.info/
+
+// Boost 1.46.1 - future
