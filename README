@@ -1,0 +1,10 @@
+The Dark GDK powers the graphics, with Google's V8 scripting engine.
+
+"Gripping the wheel, his knuckles went white with desire! The wheels of his Mustang exploding on the highway like a slug from a .45. True death: 400 horsepower of maximum performance piercing the night... This is Black Sunshine."
+
+Dependencies:
+
+DarkGDK http://www.thegamecreators.com/?m=view_product&id=2128
+Google V8 http://code.google.com/apis/v8/build.html
+OIS Input System http://wgois.svn.sourceforge.net/
+MyGUI http://mygui.info/
